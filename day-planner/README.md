@@ -26,16 +26,10 @@ While leaving the work chair and desk to return the next day (Bis morgen!), you 
 
 ### Screenshots
 
-![Adding and removing tasks](C:\Users\dem\Pictures\screenshots\20211122\adding-removing-tasks.jpg)
+![Adding and removing tasks](assets/images/adding-removing-tasks.jpg)
 
+![Editing task - Changing its name](assets/images/editing-task-01.jpg)
 
-
-![Editing task - Changing its name](C:\Users\dem\Pictures\screenshots\20211122\editing-task-01.jpg)
-
-![Editing task - saving it with the new name](C:\Users\dem\Pictures\screenshots\20211122\editing-task-02.jpg)
-
-
-
-
+![Editing task - saving it with the new name](assets/images/editing-task-02.jpg)
 
 Thanks!
