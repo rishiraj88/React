@@ -13,4 +13,3 @@ It lets you enjoy a sound sleep when you go OFF WORK in evening.
 ## 3. My 20
 News collator with remote and live API access with the help of axios.
 Its looks and functionality resembles leading news aggregators in market.
- 
