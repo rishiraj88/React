@@ -29,7 +29,7 @@ While leaving the work chair and desk to return the next day (Bis morgen!), you 
 ### Adding and removing tasks
 ![Adding and removing tasks](assets/images/adding-removing-tasks.jpg)  
   
-###Editing task 
+### Editing task 
 ![Editing task - Changing its name](assets/images/editing-task-01.jpg)  
 Changing its name
   
