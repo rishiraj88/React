@@ -27,14 +27,15 @@ While leaving the work chair and desk to return the next day (Bis morgen!), you 
 ## Screenshots
 
 ### Adding and removing tasks
-![Adding and removing tasks](assets/images/adding-removing-tasks.jpg)  
+![Adding and removing tasks - small display](assets/images/with-tasks-_-small-display.png)  
+![Adding and removing tasks - large display](assets/images/with-tasks-_-large-display.png)  
   
-### Editing task 
-![Editing task - Changing its name](assets/images/editing-task-01.jpg)  
-Changing its name
+### Editing task
+![Editing a task - Changing its description](assets/images/editing-task.png)  
+Changing todo description
   
-![Editing task - Saving it with the new name](assets/images/editing-task-02.jpg)  
-Saving it with the new name
+![Editing the task - Saving it with the new description](assets/images/edited-task.png)  
+Saving the task with its new description
   
 
 ## Thanks!
