@@ -1,6 +1,7 @@
 # Day Planner: The Task/Time Listing App
 
 This app is built with [Create React App](https://github.com/facebook/create-react-app).
+It's public URL (GA) will be notified soon.
 
 ## Available Scripts
 
